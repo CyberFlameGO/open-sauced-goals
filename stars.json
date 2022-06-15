@@ -1,15 +1,15 @@
 [
   {
     "full_name": "NVlabs/stylegan",
-    "stargazers_count": 12568,
+    "stargazers_count": 12589,
     "open_issues_count": 10,
-    "forks_count": 2929
+    "forks_count": 2930
   },
   {
     "full_name": "containrrr/watchtower",
-    "stargazers_count": 10969,
-    "open_issues_count": 37,
-    "forks_count": 623
+    "stargazers_count": 10995,
+    "open_issues_count": 35,
+    "forks_count": 622
   },
   {
     "full_name": "octokatherine/word-master",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "CocoaPods/CocoaPods",
-    "stargazers_count": 13727,
-    "open_issues_count": 363,
-    "forks_count": 2532
+    "stargazers_count": 13736,
+    "open_issues_count": 364,
+    "forks_count": 2534
   },
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 30832,
+    "stargazers_count": 30869,
     "open_issues_count": 301,
-    "forks_count": 12153
+    "forks_count": 12165
   },
   {
     "full_name": "jenkinsci/jenkins",
-    "stargazers_count": 18998,
-    "open_issues_count": 35,
-    "forks_count": 7454
+    "stargazers_count": 19013,
+    "open_issues_count": 37,
+    "forks_count": 7459
   },
   {
     "full_name": "chiru-labs/ERC721A",
-    "stargazers_count": 1639,
-    "open_issues_count": 7,
-    "forks_count": 568
+    "stargazers_count": 1650,
+    "open_issues_count": 3,
+    "forks_count": 576
   },
   {
     "full_name": "SteelSeries/gamesense-sdk",
-    "stargazers_count": 382,
-    "open_issues_count": 44,
+    "stargazers_count": 383,
+    "open_issues_count": 45,
     "forks_count": 144
   },
   {
     "full_name": "quilljs/quill",
-    "stargazers_count": 32853,
-    "open_issues_count": 1230,
-    "forks_count": 2813
+    "stargazers_count": 32881,
+    "open_issues_count": 1229,
+    "forks_count": 2815
   },
   {
     "full_name": "dmfutcher/spotify-connect-scrobbler",
@@ -61,31 +61,31 @@
   },
   {
     "full_name": "igrigorik/gharchive.org",
-    "stargazers_count": 2262,
+    "stargazers_count": 2265,
     "open_issues_count": 30,
     "forks_count": 209
   },
   {
     "full_name": "berdav/CVE-2021-4034",
-    "stargazers_count": 1560,
+    "stargazers_count": 1564,
     "open_issues_count": 3,
     "forks_count": 454
   },
   {
     "full_name": "hannahcode/word-guessing-game",
-    "stargazers_count": 2185,
+    "stargazers_count": 2191,
     "open_issues_count": 32,
-    "forks_count": 1788
+    "forks_count": 1791
   },
   {
     "full_name": "octokit/octokit.rb",
-    "stargazers_count": 3613,
-    "open_issues_count": 73,
+    "stargazers_count": 3615,
+    "open_issues_count": 74,
     "forks_count": 1235
   },
   {
     "full_name": "octokit/core.js",
-    "stargazers_count": 909,
+    "stargazers_count": 912,
     "open_issues_count": 7,
     "forks_count": 374
   },
@@ -121,45 +121,45 @@
   },
   {
     "full_name": "cloudflare/workers-rs",
-    "stargazers_count": 994,
-    "open_issues_count": 32,
-    "forks_count": 71
+    "stargazers_count": 996,
+    "open_issues_count": 31,
+    "forks_count": 72
   },
   {
     "full_name": "veler/DevToys",
-    "stargazers_count": 10188,
-    "open_issues_count": 156,
-    "forks_count": 534
+    "stargazers_count": 10218,
+    "open_issues_count": 155,
+    "forks_count": 537
   },
   {
     "full_name": "datafuselabs/databend",
-    "stargazers_count": 4041,
-    "open_issues_count": 390,
+    "stargazers_count": 4068,
+    "open_issues_count": 405,
     "forks_count": 417
   },
   {
     "full_name": "mszoek/airyx",
     "stargazers_count": 2414,
-    "open_issues_count": 59,
+    "open_issues_count": 58,
     "forks_count": 91
   },
   {
     "full_name": "apache/hadoop",
-    "stargazers_count": 12663,
-    "open_issues_count": 608,
-    "forks_count": 7852
+    "stargazers_count": 12678,
+    "open_issues_count": 613,
+    "forks_count": 7859
   },
   {
     "full_name": "kedro-org/kedro",
-    "stargazers_count": 7281,
-    "open_issues_count": 130,
-    "forks_count": 669
+    "stargazers_count": 7291,
+    "open_issues_count": 129,
+    "forks_count": 668
   },
   {
     "full_name": "HaxeFoundation/haxe",
-    "stargazers_count": 4926,
+    "stargazers_count": 4934,
     "open_issues_count": 1090,
-    "forks_count": 616
+    "forks_count": 617
   },
   {
     "full_name": "fingerprintjs/blog-indexeddb-safari-leaks-demo",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 61597,
+    "stargazers_count": 61663,
     "open_issues_count": 628,
-    "forks_count": 6065
+    "forks_count": 6070
   },
   {
     "full_name": "ulid/javascript",
